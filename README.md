@@ -1,7 +1,7 @@
 ## Used Car Price Prediction App
 
 This project is a machine learning web application that predicts the selling price of a used car based on its details. The model is trained using a car dataset and deployed using Streamlit.
-K)
+<a href ="https://used-car-price-prediction-7tevcnnbnrdo9atmutverc.streamlit.app/">Live Demo</a>
 
 ### Project Overview
 
